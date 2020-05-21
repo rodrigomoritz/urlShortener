@@ -4,6 +4,9 @@ Encurtador de URL
 #Apos clonar o projeto
 > yarn
 
+#configuração do banco de dados
+Olhar o arquivo ormconfig.json
+
 #criar bando de dados
 > yarn typeorm migration:run
 
